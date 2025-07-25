@@ -1,0 +1,18 @@
+# Byte‑compiled Python files
+__pycache__/
+*.py[cod]
+
+# Data files
+data/raw/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# OS‑generated files
+.DS_Store
+Thumbs.db
