@@ -37,7 +37,6 @@ PCA-tutorial/
 ## ⚙️ Prerequisites
 
 * **Python 3.8+**
-* `pip install -r requirements.txt` (includes `pandas`, `numpy`, `matplotlib`)
 * Jupyter Notebook or VS Code with Python extension
 
 ---
@@ -54,7 +53,7 @@ PCA-tutorial/
 2. **Install dependencies**
 
    ```bash
-   pip install -r requirements.txt
+   pandas, numpy, matplotlib
    ```
 
 3. **Run the notebooks**
