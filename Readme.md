@@ -17,19 +17,19 @@ This step-by-step guide is perfect for beginners exploring PCA and GitHub projec
 ## 📁 Repository Structure
 
 ```
-PCA-tutorial/
+PCA/
 ├── data/
 │   ├── raw/              # Original datasets (iris.csv)
 │   └── processed/        # Cleaned & standardized data (iris_clean.csv)
 ├── notebooks/
 │   ├── 01_preprocessing.ipynb  # Data loading & standardization
-│   └── 02_pca.ipynb            # PCA analysis & visualizations
+│   └── 02PCA.ipynb            # PCA analysis & visualizations
 ├── imgs/                # Generated plots and figures
 │   ├── scree.png        # Scree plot of explained variance
 │   └── iris_pca_scatter.png  # 2D PCA scatter colored by species
 ├── .gitignore
 ├── README.md
-└── requirements.txt     # Python dependencies
+
 ```
 
 ---
@@ -47,7 +47,7 @@ PCA-tutorial/
 
    ```bash
    git clone https://github.com/yourusername/pca-tutorial.git
-   cd pca-tutorial
+   cd PCA
    ```
 
 2. **Install dependencies**
