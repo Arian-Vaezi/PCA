@@ -22,7 +22,7 @@ PCA/
 │   ├── raw/              # Original datasets (iris.csv)
 │   └── processed/        # Cleaned & standardized data (iris_clean.csv)
 ├── notebooks/
-│   ├── 01_preprocessing.ipynb  # Data loading & standardization
+│   ├── ProcessingData.ipynb  # Data loading & standardization
 │   └── 02PCA.ipynb            # PCA analysis & visualizations
 ├── imgs/                # Generated plots and figures
 │   ├── scree.png        # Scree plot of explained variance
